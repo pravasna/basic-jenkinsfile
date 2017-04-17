@@ -1,4 +1,4 @@
-node('agent'){
+node('ci'){
   stage 'first'
   echo 'worked'
 
